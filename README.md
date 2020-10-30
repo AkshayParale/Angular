@@ -1,1 +1,1 @@
-# basic ng app for practice purposes only
+# Basic ng apps for practice purposes only
